@@ -1,0 +1,2 @@
+version:WERE_NO_STRANGERS_TO_LOVE
+depends:real_lib
